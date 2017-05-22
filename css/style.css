@@ -7389,9 +7389,9 @@ div.category-ligne {
   border: 2px solid #777777;
   border-radius: 10px;
 }
-div.category-ligne :hover {
+div.category-ligne:hover {
   background: #eeeeee;
 }
-div.category-ligne :hover div.views-field > h1.category-title > a:hover {
+div.category-ligne:hover div.views-field > h1.category-title > a:hover {
   text-decoration: none;
 }
