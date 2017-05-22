@@ -16,6 +16,12 @@ div.category-image > a > img{
 
 div.category-ligne{
   padding-top: 15px;
-  border: 2px solid @gray-lighter;
+  border: 2px solid @gray-light;
   border-radius: 10px;
+  :hover{
+    background: @gray-lighter;
+    div.views-field > h1.category-title > a:hover{
+      text-decoration: none;
+    }
+  }
 }
