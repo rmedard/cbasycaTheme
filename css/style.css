@@ -7392,6 +7392,6 @@ div.category-ligne {
 div.category-ligne :hover {
   background: #eeeeee;
 }
-div.category-ligne :hover div.views-field > h1.category-title > a:hover {
+div.category-ligne div.views-field > h1.category-title > a:hover {
   text-decoration: none;
 }
